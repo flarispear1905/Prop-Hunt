@@ -214,4 +214,4 @@ Prop Hunt is offered as a full free version with all features and updates includ
 Join the excitement and download Prop Hunt free today to experience the thrill of hide and seek in Garry's Mod!
 
 ---
-**Last updated:** 2026-09-18 22:53:45 UTC
+**Last updated:** 2026-09-19 00:44:05 UTC
